@@ -27,3 +27,9 @@
 </div>
 
 ###
+
+<h2 align="left">You can donate by:</h2>
+
+Monero: 43tzc9s3A3yeWAg28ru8CZaXbsmitnQNx1sfKpkDpUUZKXfkK4N5Gv8XQGrWedfA6edUw6zrczjUQjj1aW9gc4aYHG3mHc6
+
+###
