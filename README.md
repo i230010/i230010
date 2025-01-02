@@ -30,12 +30,10 @@
 
 <h2 align="left">My website:</h2>
 
-<a href="https://irsyad212.github.io/">irsyad212.github.io</a>
+<a href="https://irsyad212.github.io/" target=”_blank”>irsyad212.github.io</a>
 
 ###
 
-<h2 align="left">You can donate by:</h2>
-
-<a href="monero:43tzc9s3A3yeWAg28ru8CZaXbsmitnQNx1sfKpkDpUUZKXfkK4N5Gv8XQGrWedfA6edUw6zrczjUQjj1aW9gc4aYHG3mHc6">Monero</a>
+<h2 align="left">You can donate by Monero here: 43tzc9s3A3yeWAg28ru8CZaXbsmitnQNx1sfKpkDpUUZKXfkK4N5Gv8XQGrWedfA6edUw6zrczjUQjj1aW9gc4aYHG3mHc6</h2>
 
 ###
