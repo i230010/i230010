@@ -34,6 +34,8 @@
 
 ###
 
-<h2 align="left">You can donate by Monero here: 43tzc9s3A3yeWAg28ru8CZaXbsmitnQNx1sfKpkDpUUZKXfkK4N5Gv8XQGrWedfA6edUw6zrczjUQjj1aW9gc4aYHG3mHc6</h2>
+<h2 align="left">You can donate by Monero here:</h2>
+
+<p>monero:43tzc9s3A3yeWAg28ru8CZaXbsmitnQNx1sfKpkDpUUZKXfkK4N5Gv8XQGrWedfA6edUw6zrczjUQjj1aW9gc4aYHG3mHc6</p>
 
 ###
