@@ -28,7 +28,9 @@
 
 ###
 
-<a href="https://irsyad212.github.io/"><h2 align="left">Website:</h2></a>
+<h2 align="left">Website:</h2>
+
+<a href="https://irsyad212.github.io/">Website</a>
 
 ###
 
