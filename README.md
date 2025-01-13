@@ -28,7 +28,7 @@
 
 ###
 
-<h2 align="left">My website:</h2>
+<h2 align="left">My Links:</h2>
 
 <a href="https://irsyad212.github.io/" target=”_blank”>irsyad212.github.io</a>
 
