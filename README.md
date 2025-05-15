@@ -30,7 +30,7 @@
 
 <h2 align="left">My Links:</h2>
 
-<a href="https://i230010.github.io/" target=”_blank”>irsyad212.github.io</a>
+<a href="https://i230010.github.io/" target=”_blank”>https://i230010.github.io</a>
 
 ###
 
