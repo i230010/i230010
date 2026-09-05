@@ -5,16 +5,7 @@
 ###
 
 <div align="center">
-  <a href="https://www.youtube.com/@irspaceXD" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge"
-       height="25"
-       alt="YouTube logo" />
-  </a>
-  <a href="https://eclipseinformation.site" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Website&label=&color=38AAFF&logoColor=white&labelColor=&style=for-the-badge"
-       height="25"
-       alt="My Website" />
-  </a>
+  <a href="https://eclipseinformation.site" target="_blank"><img src="https://img.shields.io/static/v1 message=Website&label=&color=38AAFF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="My Website" /></a>
 </div>
 
 ###
