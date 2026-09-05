@@ -10,10 +10,10 @@
        height="25"
        alt="YouTube logo" />
   </a>
-  <a href="https://i230010.github.io/" target="_blank">
+  <a href="https://eclipseinformation.site" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Website&label=&color=38AAFF&logoColor=white&labelColor=&style=for-the-badge"
        height="25"
-       alt="Website" />
+       alt="My Website" />
   </a>
 </div>
 
