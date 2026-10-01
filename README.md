@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">I'm Irsyad, I like astronomy and predicting Solar Eclipses. I am currently busy because school is very tiring but sometimes I give small updates to my github and my website. I learnt coding at the year 2022 and liked Solar Eclipses at the year 2023.</p>
+<p align="left">I'm Irsyad, I like astronomy and engineering. I am currently busy because school is very tiring but sometimes I give small updates to my github and my website. I learnt coding at the year 2022 and liked Solar Eclipses at the year 2023.</p>
 
 ###
 
